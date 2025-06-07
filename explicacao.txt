@@ -1,0 +1,11 @@
+minha explicação
+
+LIFO <=
+FILO
+
+d HEAD
+c
+b
+a
+
+13c05f984a82c8299569cd84d2d34e087e69377d <= HEAD == master
